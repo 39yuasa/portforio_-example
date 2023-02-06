@@ -1,6 +1,6 @@
 # portforio_-example
 <section>
-  ## ゲーム
+  ## H2タグ
   <ul>
     <li>おみくじ</li>
     <li>
