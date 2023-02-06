@@ -1,2 +1,8 @@
 # portforio_-example
-<h1>ゆあさ</h1>
+<section>
+  ## ゲーム
+  <ul>
+    <li>おみくじ</li>
+    <li>
+  </ul>
+</section>
